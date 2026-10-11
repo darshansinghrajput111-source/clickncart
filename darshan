@@ -1,0 +1,8 @@
+ 4 git add .                                                                                                                                                  
+   5 git commit -m "xyz"                                                                                                                                        
+   6 git status                                                                                                                                                 
+   7 git log                                                                                                                                                    
+   8 history                                                                                                                                                    
+   9 git status                                                                                                                                                 
+  10 history                                                                                                                                                    
+  11 git add demo.txt                                                                                                                                           
