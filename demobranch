@@ -1,0 +1,122 @@
+user 
+root user  start with `
+$ normal user
+# its root user
+system  user backgorund proess handled
+
+
+echo :- after that what we want always be capital
+
+cat read file
+cat /etc/passwd stoire user info
+root user id 0 
+noraml user
+1000 to 65k id
+system user 1 to 999
+head and tail to read start and end
+head reads only 10 lines
+head /etc/passwd
+for reading particular line 
+head -n number of lines /etc/passwd
+same for tail
+nano
+rm-rf
+cd ~
+tree
+echo  :- to store data redirection or append echo "this is my data " > demo
+also can save data with using cat cat  > demo
+to get out from this press cntrl c
+questions
+append
+save last 5 cmd from history into hist.file
+
+append
+
+
+
+clear
+
+git.. local > store in laptop  > for backup
+github > remote > online
+
+stire the versions on guthub and shares with everyone this is called vrsion control
+to install in linux we use apt install name of application
+to check version git -- version
+create folder mkdr project
+to enter cd project
+
+git 
+to intial use git init it will go in git folder it will recored
+git status to check if new file is added or new content is added
+git add track chagnges in file
+git add. shows all files changes
+git commmit to save with changes with 1 msg
+gut commit -m "xxx name of file "
+git log shows all the commits  information
+git show starting 4 characters of log shows what changes happned / shows commit info or what changes happned
+
+
+grep 
+nano vi
+cd for to go in firectory
+
+
+
+
+	
+
+aws
+docnumnets read of aws devops : iam s3 vpc ec2
+global infrastructure :- 
+
+devops lifecycle
+plan gather ithe information , break works into task , priotarize feature,  tool jira
+code:-  write modifity maintain app sorce code ..write code > use git to track changes>  create branchees> review
+build ;purppose turn sorce code into pakage that can tested and deployed tools : aws docker npm
+test 
+release :prepare and approve particular version of app and deploye
+deploye install app into intended environmnet
+
+operate keep app and its supporting infra running reliably : tools aws ec2 iam load balancing
+monitor understand app health and detect problem usiing metrics logs traces tools: aws cloudwatch prometheous
+
+
+
+jenkins
+docker
+kubernate
+terraform IAC
+ansibel works only on linux
+monitoring prometheus graphana
+git 
+config it 1st 
+git config -- global user.name "darshan"
+git config -- global user.email  "darshanrajput111@gmail.com"
+git config --list
+git vcs
+collaboration
+distributed / centralized / local
+
+
+git innit >> initialise repo > file name .git > to deinitialize delete .git file
+git add >> git add . / git add filename
+git commit -m:- git commit -m  "xyxz"
+git status>> 
+git log>> shows how much commit by bdoen and by whom with date and ime
+git remote add origin
+git branch
+git push
+git remote -v
+clone >> remote to local  if stuck do cntrl + c and do it again
+fork>>  same repo give at our github work in github choose anyone repo and do fork
+fetch >> to check some has updated anything in file git fetch  if showing 100% means there is sopme changes
+pull >> to take file which is updated pull origin main git pull origin main originn is name given to link of github profile and main is the branch given in github id
+git diff>> show diffrence between new line added and older one / commit and file logs in one line
+git show>>  to show what chnaged in last commit git show last 4 number of log
+git log --one line
+branching startergy:-orginal data is untouched and new one is added in other bracnh we merge the both coding
+giit branch tiu will see it with * main which is using
+git branch name of branch
+to get in branch :- git checkout and git switch command git checkout name of branch
+
+
